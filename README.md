@@ -14,10 +14,6 @@ KRAF: 경기대 캠퍼스라이프를 위한 🛟라이프가이드, 크구라�
 ### 시스템 아키텍쳐 다이어그램
 <img  alt="krafArchitecture" src="https://github.com/user-attachments/assets/1a007d79-a862-4ab0-97e1-d98fdb9558cc" />
 
-## 배포 주소
-
-http://gcocs.shop/
-
 
 ## 크래프톤 코드사파리
 
